@@ -1,5 +1,5 @@
 # 🏦 Projeto de AdaEstatistica_projetofinal
-Realizar uma análise exploratória de dados (executando o piepline até chegar nessa etapa):
+Projeto final realizando analise estatistica com Python e suas bibliotecas:
 
 **Status**: `Completo`
 Participantes: Raphael e Squad6
